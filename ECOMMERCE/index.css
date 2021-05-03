@@ -1,0 +1,52 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+.search{
+    padding: 3%;
+    margin-left: -65%;
+   
+}
+.bi-person{
+    margin-left: 500px;
+}
+.bi-suit-heart{
+    margin-left: 14px;
+}
+.bi-cart{
+    margin-left: 13px;
+}
+.brandname{
+    margin-right: 500px;
+   font-weight: bolder;
+padding: 0%;
+margin-inline-start: 0px;
+font: 1em sans-serif;
+}
+.p2{
+    background-color: lightcoral;
+    text-align: center;
+    height: 40px;
+    
+}
+.p3{
+    height: 500px;
+    background-color: lightpink;
+}
+.image1{
+    width: 33.3%;
+    height: 500px;
+    float: left;
+}
+.image2{
+    width: 33.3%;
+    height: 500px;
+    float: center;
+}
+.image3{
+    width: 33.3%;
+    height: 500px;
+    float: right;
+
+}
