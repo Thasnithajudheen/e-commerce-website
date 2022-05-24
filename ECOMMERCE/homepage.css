@@ -302,7 +302,7 @@ margin-bottom: 1rem;
     }
   
     .header .hero-img {
-      height: 40rem;
+      height: 30rem;
       bottom: -15%;
     }
   
@@ -317,6 +317,7 @@ margin-bottom: 1rem;
   
     .hero-content h2 {
       font-size: 1.8rem;
+
     }
   
     .hero-content h1 span {
